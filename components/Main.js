@@ -26,7 +26,7 @@ const Main = () => {
   return (
     <>
       <div className="w-full text-white h-[80vh] md:h-[70vh]">
-        <div classname="w-full h-full">
+        <div className="w-full h-full">
           <div className="w-full absolute h-[80vh] md:h-[70vh] bg-gradient-to-r from-black"></div>
           <img
             className="object-cover w-full h-[80vh] md:h-[70vh]"
@@ -40,7 +40,7 @@ const Main = () => {
             <button className="bg-gray-400 p-4 border  hover:text-white border-black text-black mr-5">
               Play
             </button>
-            <button className="border border-gray-400 p-4 text-gray-400 hover:bg-slate-500  hover:text-white">
+            <button className="border border-gray-400 p-4 text-gray-400 hover:bg-gray-400  hover:text-white">
               Watch Later
             </button>
             <div className="mt-4 text-sm">
