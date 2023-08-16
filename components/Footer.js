@@ -103,9 +103,9 @@ const Footer = () => {
               </p> */}
             </div>
           </div>
-          <a href="/" className="underline">
-            Netflix Pakistan
-          </a>
+          <div className="w-full flex justify-center mt-6 items-center pointer underline md:block">
+            <a href="/">Netflix Pakistan</a>
+          </div>
         </div>
       </footer>
     </>
